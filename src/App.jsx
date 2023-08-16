@@ -74,7 +74,7 @@ function App() {
   }, [appLoaded, setAppLoaded]);
 
   return (
-    <div className="min-h-screen flex justify-center items-center">
+    <div className="min-h-screen block lg:flex justify-center items-center">
       <Editor
         selected={selected}
         setSelected={setSelected}
