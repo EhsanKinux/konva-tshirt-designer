@@ -1,5 +1,12 @@
-## live DEMO:
-[demo](https://konva-tshirt-designer.netlify.app)
+### T-shirt Designer Preview
+The T-Shirt Designer App is a React-based web application that allows users to upload photos onto a virtual T-shirt, change the T-shirt color, and preview the position of the photo on the T-shirt. This project aims to provide a simple and interactive way for users to visualize how their custom designs will look on a T-shirt.
+
+# Table of Contents
+- [DEMO](#demo)
+- [Quick start](#quick-start)
+
+## DEMO
+A live demo of the T-Shirt Designer App can be accessed at [demo](https://konva-tshirt-designer.netlify.app)
 
 ## Quick start
 
@@ -25,20 +32,6 @@ You may also see any lint errors in the console.
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
 If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
